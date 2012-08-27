@@ -8,7 +8,13 @@ big fish eat small fish , as you know.
 
 ## How to play
 Drag your fish to avoid big fish and eat small fish.
+your fish can eat more bigger fish when grow up.
 
-Powered by [Cocos2D][13] framework.
+## Resources
+Pictures resources from website [widgetworx.com][10]
 
-[13]: http://www.cocos2d-iphone.org/
+## Framework
+Powered by [Cocos2D-iPhone][11] framework.
+
+[10]: http://www.widgetworx.com/
+[11]: http://www.cocos2d-iphone.org/
