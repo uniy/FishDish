@@ -11,10 +11,15 @@ Drag your fish to avoid big fish and eat small fish.
 your fish can eat more bigger fish when grow up.
 
 ## Resources
-Pictures resources from website [widgetworx.com][10]
+Pictures resources from website [widgetworx.com][1]
 
 ## Framework
-Powered by [Cocos2D-iPhone][11] framework.
+Powered by [Cocos2D-iPhone][21] framework.
 
-[10]: http://www.widgetworx.com/
-[11]: http://www.cocos2d-iphone.org/
+## License
+The code is released under the [MIT License][3].
+Please use them only for learning purposes, and don't release with your own project.
+
+[1]: http://www.widgetworx.com/
+[2]: http://www.cocos2d-iphone.org/
+[3]: http://opensource.org/licenses/mit-license.php
