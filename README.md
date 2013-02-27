@@ -14,7 +14,7 @@ your fish can eat more bigger fish when grow up.
 Pictures resources from website [widgetworx.com][1]
 
 ## Framework
-Powered by [Cocos2D-iPhone][21] framework.
+Powered by [Cocos2D-iPhone][2] framework.
 
 ## License
 The code is released under the [MIT License][3].
