@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>avoid_fish_type-1_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {15, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{15, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{144, 136}, {15, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type-1_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {15, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{15, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{251, 112}, {15, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type-1_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {15, 9}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{15, 9}</string>
+			<key>spriteSourceSize</key>
+			<string>{15, 15}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{251, 123}, {15, 9}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type0_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {19, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{19, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{182, 207}, {19, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type0_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {19, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{19, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 105}, {19, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type0_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {19, 17}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{19, 17}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 126}, {19, 17}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type0_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {19, 19}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{19, 19}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{234, 74}, {19, 19}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type0_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 1}, {19, 15}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{19, 15}</string>
+			<key>spriteSourceSize</key>
+			<string>{19, 19}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{251, 95}, {19, 15}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type1_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{213, 202}, {23, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type1_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {23, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{23, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{173, 144}, {23, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type1_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{25, 204}, {23, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type1_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{488, 116}, {23, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type1_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {23, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{23, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{23, 23}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 204}, {23, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type2_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {27, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{27, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 199}, {27, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type2_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {27, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{27, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{201, 105}, {27, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type2_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {27, 25}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{27, 25}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{107, 169}, {27, 25}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type2_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {27, 23}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{27, 23}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{66, 192}, {27, 23}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type2_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {27, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{27, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{27, 27}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{201, 134}, {27, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type3_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{284, 198}, {31, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type3_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 171}, {31, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type3_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 29}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{31, 29}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{201, 74}, {31, 29}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type3_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{111, 136}, {31, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type3_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {31, 31}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{31, 31}</string>
+			<key>spriteSourceSize</key>
+			<string>{31, 31}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{33, 171}, {31, 31}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type4_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {35, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{35, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 200}, {35, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type4_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {35, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{35, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{111, 113}, {35, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type4_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {35, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{35, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{37, 148}, {35, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type4_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {35, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{35, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{74, 136}, {35, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type4_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 7}, {35, 21}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{35, 21}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{74, 113}, {35, 21}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type5_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{39, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 39}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{382, 190}, {39, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type5_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{39, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 39}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{41, 74}, {39, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type5_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{39, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 39}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 116}, {39, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type5_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{39, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 39}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{82, 74}, {39, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type5_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {39, 37}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{39, 37}</string>
+			<key>spriteSourceSize</key>
+			<string>{39, 39}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 74}, {39, 37}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clam_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {57, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{57, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 29}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 29}, {57, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clam_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {57, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{57, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 29}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 87}, {57, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clam_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {61, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -1}</string>
+			<key>spriteSize</key>
+			<string>{61, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 29}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 0}, {61, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>clam_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{4, 2}, {57, 27}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{57, 27}</string>
+			<key>spriteSourceSize</key>
+			<string>{65, 29}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{447, 58}, {57, 27}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type6_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {147, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{147, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 0}, {147, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type6_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {147, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{147, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{149, 0}, {147, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type6_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {147, 70}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{147, 70}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 72}, {147, 70}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>avoid_fish_type6_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {147, 72}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{147, 72}</string>
+			<key>spriteSourceSize</key>
+			<string>{147, 72}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {147, 72}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>starfish_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {35, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{35, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{37, 113}, {35, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>starfish_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {35, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{35, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 109}, {35, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>starfish_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {35, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{35, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 113}, {35, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>starfish_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {35, 33}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{35, 33}</string>
+			<key>spriteSourceSize</key>
+			<string>{35, 35}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{164, 74}, {35, 33}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>fish_baddie_parts</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>fish_baddie_parts</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
